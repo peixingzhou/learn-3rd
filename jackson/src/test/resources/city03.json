@@ -1,0 +1,19 @@
+{
+  "id":1,
+  "name":"xian",
+  "streets":[
+    {
+      "id":1,
+      "name":"kejierlu"
+    },
+    {
+      "id":2,
+      "name":"yunshuiyilu",
+      "map": {
+        "k1": "v1",
+        "k2": "v2"
+      }
+    }
+
+  ]
+}
